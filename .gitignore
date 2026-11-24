@@ -1,0 +1,23 @@
+# Python cache
+__pycache__/
+*.pyc
+
+# Virtual environments
+.venv/
+venv/
+
+# Model weights and checkpoints
+*.pt
+*.pth
+*.safetensors
+checkpoints/
+models/
+
+# Datasets
+data/
+
+# Secrets
+.env
+
+# Pycharm
+.idea/
